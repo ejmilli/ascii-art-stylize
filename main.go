@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ascii-art-web/ascii"
+	"ascii-art-stylize/ascii"
 	"fmt"
 	"html/template"
 	"net/http"
